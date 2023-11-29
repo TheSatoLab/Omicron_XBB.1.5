@@ -2,7 +2,7 @@
 
 A supplemental table for the GISAID datasets used in the XBB.1.5 paper.
 
-Revised manuscript
+<\b>Revised manuscript<\>
 
 The EPI_SET_231124cy dataset includes 7,913 genomic sequences of SARS-CoV-2 used in phylogenetic analyses.
 
