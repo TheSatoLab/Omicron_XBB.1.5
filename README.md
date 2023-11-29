@@ -8,6 +8,8 @@ The EPI_SET_231124cy dataset includes 7,913 genomic sequences of SARS-CoV-2 used
 
 Original manuscript
 
+Tamura et al. 2023. Virological characteristics of the SARS-CoV-2 XBB.1.5 variant. bioRxiv. doi: 10.1101/2023.08.16.553332
+
 The EPI_SET_230724fc dataset includes 2,369 genomic sequences of SARS-CoV-2 used in phylogenetic tree reconstruction.
 
 The EPI_SET_230725uz dataset includes 2,317 genomic sequences of SARS-CoV-2 used in performing multiple alignments of S protein.
