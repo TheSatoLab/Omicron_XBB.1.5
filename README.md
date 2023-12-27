@@ -1,6 +1,6 @@
 # Omicron_XBB.1.5
 
-An R code for sampling and phylogenetic analyses and a supplemental table for the GISAID datasets used in the XBB.1.5 paper.
+Phylogenetic trees, an R code for sampling and phylogenetic analyses, and a supplemental table for the GISAID datasets used in the XBB.1.5 paper.
 
 Revised manuscript
 
