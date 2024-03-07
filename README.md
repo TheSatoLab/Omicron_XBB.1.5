@@ -1,4 +1,4 @@
-# Omicron_XBB.1.5
+# Virological characteristics of the SARS-CoV-2 Omicron XBB.1.5 variant
 
 The phylogenetic trees, R code for sampling and phylogenetic analyses, and supplemental tables for the GISAID datasets used in the following studies.
 
